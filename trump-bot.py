@@ -156,7 +156,7 @@ def handle_command(command, channel):
     ("Goofy Elizabeth Warren and her phony Native American heritage are on a "
     "Twitter rant. She is too easy! I'm driving her nuts."),
     ("Goofy Elizabeth Warren, Hillary Clinton’s flunky, has a career that is "
-    "totally based on a lie. She is not Native American.")
+    "totally based on a lie. She is not Native American."),
     ("While Bette Midler is an extremely unattractive woman, I refuse to say "
     "that because I always insist on being politically correct.")
     ]
